@@ -1,5 +1,5 @@
 # launch.ps1 - Auto-open the CTF workspace at pre-flight time
-$Kit = "H:\opencode\2027\ctf-kit"
+$Kit = "H:\opencode\2027\demon"
 $Platform = "https://unstop.com/hackathons/sea-of-secrets-ctf-hackitup-1764913"
 $CyberChef = "https://gchq.github.io/CyberChef/"
 

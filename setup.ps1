@@ -1,5 +1,5 @@
 # setup.ps1 - Auto-check/install the CTF toolchain and report status
-$Kit = "H:\opencode\2027\ctf-kit"
+$Kit = "H:\opencode\2027\demon"
 Write-Host "=== CTF Toolchain Setup / Check ===" -ForegroundColor Cyan
 
 function Has($name) { [bool](Get-Command $name -ErrorAction SilentlyContinue) }
